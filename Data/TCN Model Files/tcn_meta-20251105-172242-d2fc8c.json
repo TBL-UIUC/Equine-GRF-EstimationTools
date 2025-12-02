@@ -1,0 +1,17 @@
+{
+  "run_id": "20251105-172242-d2fc8c",
+  "epoch": 250,
+  "hparams": {
+    "run_id": "20251105-172242-d2fc8c",
+    "batch_size": 16,
+    "lr": 0.001,
+    "l1_reg": 6.734311403143686e-07,
+    "l2_reg": 8.96124689205811e-05,
+    "kernel_size": 9,
+    "dropout": 0.0,
+    "dilation_base": 2,
+    "num_filters": 32,
+    "num_layers": null
+  },
+  "git_commit": null
+}
