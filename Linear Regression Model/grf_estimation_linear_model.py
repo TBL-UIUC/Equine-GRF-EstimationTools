@@ -16,7 +16,7 @@ Notes
    ``TemplateGRFtrot.xlsx`` located in ``TEMPLATE_DIR`` (module-level default).
 """
 
-# ----------------------------- Imports ---------------------------------------
+
 import argparse
 from pathlib import Path
 import os
@@ -25,7 +25,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from typing import Tuple
 
-__contributors__ = ["Griffin C. Sipes", "Melany D. Opolz"]
+__contributors__ = ["Melany D. Opolz", "Griffin C. Sipes"]
 __license__ = "GPL-3.0-or-later"
 __copyright__ = "Copyright (c) 2025 The Board of Trustees of the University of Illinois"
 
