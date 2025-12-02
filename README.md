@@ -6,7 +6,6 @@ Short, reproducible tools for estimating forelimb ground reaction forces (GRF) i
 
 ## Table of Contents
 
-- [High-level summary](#high-level-summary)
 - [Repository layout](#repository-layout)
 - [Requirements and recommended environment](#requirements-and-recommended-environment)
 - [File Structure](#file-structure)
@@ -14,12 +13,6 @@ Short, reproducible tools for estimating forelimb ground reaction forces (GRF) i
 - [References and Citations](#references-and-citations)
 - [License](#license)
 - [Contact](#contact)
-
-## High-level summary
-
-- **Problem:** Measuring GRF in large-animal biomechanics is challenging; estimating GRF from kinematics enables wider studies of joint kinetics.
-- **Approaches:** 1) Classical linear regression to estimate GRF peaks and profiles; 2) Machine-learning approach using a Temporal Convolutional Network (TCN) to estimate continuous GRF profiles.
-- **Data:** Longitudinal motion capture, GRF recordings, and subject mass during walking and trotting gaits; Froude number used to account for subject size/dynamics.
 
 ## Repository layout
 
@@ -88,7 +81,7 @@ The authors are grateful to Dr. Kellie Halloran for their assistance in data col
 
 ## References and Citations
 
-If you use this code for research that results in publications, please cite our original article listed above.
+If you use this code for research that results in publications, please cite our original article.
 
 You can use the following BibTeX entry
 
