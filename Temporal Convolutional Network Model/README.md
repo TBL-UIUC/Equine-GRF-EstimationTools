@@ -48,14 +48,6 @@ create_inference_dataset.create_inference_dataset(
   out_path=Path("path/to/Processed_Saved_Data/inference_dataset.pt"),
   pad_length=1000,  # optional, adjust to your preprocessing needs
 )
-
-# Fallback: invoke the script entrypoint (if it exposes a main() that accepts arg list)
-import create_inference_dataset as cid
-cid.main([
-  "--in-csv", "path/to/features.csv",
-  "--out-dir", "path/to/Processed_Saved_Data",
-  "--pad-length", "1000",
-])
 ```
 
 Programmatic example to load a checkpoint and run inference:
