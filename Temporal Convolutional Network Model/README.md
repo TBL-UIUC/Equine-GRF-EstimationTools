@@ -8,42 +8,10 @@ forelimb ground reaction forces (GRF).
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [File Structure](#file-structure)
 - [Usage](#usage)
 - [API Reference](#api-reference)
 - [License](#license)
-
-## Installation
-
-Recommended Python: 3.8+ (3.9+ preferred). Install dependencies in a
-virtual environment.
-
-Create and activate a virtual environment (cross-platform). Use `python` or `python3` depending on your system.
-
-POSIX (Linux / macOS):
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install --upgrade pip setuptools wheel
-python -m pip install -r requirements.txt
-```
-
-Windows PowerShell:
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-python -m pip install --upgrade pip setuptools wheel
-python -m pip install -r requirements.txt
-```
-
-Windows CMD:
-```cmd
-python -m venv .venv
-.\.venv\Scripts\activate.bat
-python -m pip install --upgrade pip setuptools wheel
-python -m pip install -r requirements.txt
-```
 
 ## File Structure
 
