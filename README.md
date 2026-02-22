@@ -1,6 +1,6 @@
 # Statistical approaches for estimating forelimb ground reaction forces (GRF)
 
-Short, reproducible tools for estimating forelimb ground reaction forces (GRF) in foals using two statistical approaches: a simple linear regression model and a temporal convolutional network (TCN). This repository contains code, model artifacts, and example data to run both approaches for estimating continuous GRF profiles from kinematic and mass data.
+Short, reproducible tools for estimating forelimb ground reaction forces (GRF) in foals using two statistical approaches: a simple linear regression model and a temporal convolutional network (TCN). This repository contains code and model artifacts to run both approaches for estimating continuous GRF profiles from kinematic and mass data.
 
 **Contributors:** Melany D. Opolz, Griffin C. Sipes, Sara G. Moshage, Annette M. McCoy, Mariana E. Kersh
 
